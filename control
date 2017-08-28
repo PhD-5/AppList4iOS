@@ -1,0 +1,9 @@
+Package: com.softsec.applistupdater
+Name: AppListUpdater
+Depends: mobilesubstrate,firmware(>=8.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: yujianbo
+Author: yujianbo
+Section: Tweaks
